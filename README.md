@@ -2,7 +2,7 @@
 
 ### 🛡️ Cybersecurity Student & Tech Explorer 🚀
 
-- 🔭 **Current Focus:** Studying penetration testing and network security.
+- 🔭 **Current Focus:** Studying penetration testing and Information, network, and web security.
 - 🌱 **Learning:** Diving deep into Linux, Python automation, and Cloud Security.
 - 🎯 **Goal:** Building a more secure digital environment.
 - ⚡ **Fun Fact:** I believe that "Security is a process, not a product."

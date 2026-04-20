@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Esmail (eso 1)
 
-<!--
-**esmail111112/esmail111112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Student & Tech Explorer 🚀
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Studying penetration testing and network security.
+- 🌱 **Learning:** Diving deep into Linux, Python automation, and Cloud Security.
+- 🎯 **Goal:** Building a more secure digital environment.
+- ⚡ **Fun Fact:** I believe that "Security is a process, not a product."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Stack:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esmail111112&show_icons=true&theme=tokyonight)
+
+---
+
+### 🤝 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/esmail-motea/) | [Email](moteaesmail5@gmail.com)

@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Esmail (eso 1)
+# Hi there 👋 I'm Esmail 
 
 ### 🛡️ Cybersecurity Student & Tech Explorer 🚀
 
